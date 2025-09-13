@@ -1,0 +1,393 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "The Big One",
+      "description": "Fried chicken with fries",
+      "category": "Chicken Meals",
+      "price": 32.9,
+      "quantity": 7,
+      "img": "/uploads/sample1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fomo For One",
+      "description": "Single portion meal",
+      "category": "Chicken Meals",
+      "price": 36.9,
+      "quantity": 14,
+      "img": "/uploads/sample2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hungry Lion Mix",
+      "description": "Burger + chicken",
+      "category": "Chicken Meals",
+      "price": 42.9,
+      "quantity": 10,
+      "img": "/uploads/sample3.jpg"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "createdAt": "2025-09-13T20:29:26.966Z",
+      "productId": 1,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 2,
+      "createdAt": "2025-09-13T20:30:10.131Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 3,
+      "createdAt": "2025-09-13T20:30:10.143Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 4,
+      "createdAt": "2025-09-13T20:30:10.525Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 5,
+      "createdAt": "2025-09-13T20:30:10.528Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 6,
+      "createdAt": "2025-09-13T20:30:10.937Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 7,
+      "createdAt": "2025-09-13T20:30:11.575Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 8,
+      "createdAt": "2025-09-13T20:30:11.586Z",
+      "productId": 2,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 9,
+      "createdAt": "2025-09-13T20:30:39.536Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 10,
+      "createdAt": "2025-09-13T20:30:39.551Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 11,
+      "createdAt": "2025-09-13T20:35:25.509Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 12,
+      "createdAt": "2025-09-13T20:35:25.517Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 13,
+      "createdAt": "2025-09-13T20:35:25.866Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 14,
+      "createdAt": "2025-09-13T20:35:25.873Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 15,
+      "createdAt": "2025-09-13T20:35:26.242Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 16,
+      "createdAt": "2025-09-13T20:35:26.248Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 17,
+      "createdAt": "2025-09-13T20:35:26.606Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 18,
+      "createdAt": "2025-09-13T20:35:26.613Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 19,
+      "createdAt": "2025-09-13T20:35:26.990Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 20,
+      "createdAt": "2025-09-13T20:35:26.995Z",
+      "productId": 5,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 21,
+      "createdAt": "2025-09-13T20:35:28.131Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 22,
+      "createdAt": "2025-09-13T20:35:28.135Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 23,
+      "createdAt": "2025-09-13T20:35:29.252Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 24,
+      "createdAt": "2025-09-13T20:35:29.690Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 25,
+      "createdAt": "2025-09-13T20:35:29.696Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 26,
+      "createdAt": "2025-09-13T20:35:30.061Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 27,
+      "createdAt": "2025-09-13T20:35:30.069Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 28,
+      "createdAt": "2025-09-13T20:35:30.437Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 29,
+      "createdAt": "2025-09-13T20:35:30.441Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 30,
+      "createdAt": "2025-09-13T20:35:30.831Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 31,
+      "createdAt": "2025-09-13T20:35:30.835Z",
+      "productId": 4,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 32,
+      "createdAt": "2025-09-13T20:58:00.098Z",
+      "productId": 3,
+      "change": -2,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 33,
+      "createdAt": "2025-09-13T20:58:00.132Z",
+      "productId": 1,
+      "change": -3,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 34,
+      "createdAt": "2025-09-13T20:59:27.988Z",
+      "productId": 2,
+      "change": -1,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 35,
+      "createdAt": "2025-09-13T20:59:28.010Z",
+      "productId": 3,
+      "change": -1,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 36,
+      "createdAt": "2025-09-13T20:59:28.017Z",
+      "productId": 1,
+      "change": -1,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 37,
+      "createdAt": "2025-09-13T20:59:28.022Z",
+      "productId": 5,
+      "change": -1,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 38,
+      "createdAt": "2025-09-13T20:59:28.027Z",
+      "productId": 4,
+      "change": -1,
+      "type": "sold",
+      "note": ""
+    },
+    {
+      "id": 39,
+      "createdAt": "2025-09-13T21:05:07.688Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 40,
+      "createdAt": "2025-09-13T21:05:07.701Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 41,
+      "createdAt": "2025-09-13T21:05:08.042Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 42,
+      "createdAt": "2025-09-13T21:05:08.659Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 43,
+      "createdAt": "2025-09-13T21:05:08.663Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 44,
+      "createdAt": "2025-09-13T21:05:09.722Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    },
+    {
+      "id": 45,
+      "createdAt": "2025-09-13T21:05:09.728Z",
+      "productId": 3,
+      "change": 1,
+      "type": "restock",
+      "note": ""
+    }
+  ]
+}
